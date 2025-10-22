@@ -1,13 +1,24 @@
 
 # 👨🏻‍💻 Jhemerson Oliveira
 
-**`Analista de Dados`**
+**`Analista de Dados`**  -  **`Analista de Business Intelligence`**
 
-Atualmente estou buscando conhecimento na área de Analise de Dados. Sempre gostei de todo tipo de dados, minha vida sempre foi baseada em dados para tomada de decisão de forma mais racional. Sempre registrei minhas informações em planilhas no Excel. Planilhas de organização pessoal, planilhas de controle financeiro. Em todos os locais onde trabalhei, sempre implementei o uso de planilhas para controle. Algo simples, que facilitava no dia a dia, mas as pessoas ignoravam. 
-E agora, cada vez mais, me apaixonando pelo mundo dos dados.
+- Em transição para área de dados.
 
 ---
 
+### 🔨 Habilidades e Ferramentas
+
+- Análise Descritiva
+- Entendimento de Negócios
+- Excel
+- Google Sheets
+- Power BI
+- DAX
+- MySQL
+
+---
+  
 ### 📊 Estatísticas
 
 <p>
