@@ -7,15 +7,17 @@
 
 ---
 
-### 🔨 Habilidades e Ferramentas
+### 🔨 Ferramentas
 
-- Análise Descritiva
-- Entendimento de Negócios
-- Excel
-- Google Sheets
-- Power BI
-- DAX
-- MySQL
+  <div align="left">
+  <img src="https://github.com/user-attachments/assets/f8d6d897-432b-48e1-ab66-c5c9476388bc" width="50" height="50" />
+  </div>
+  
+  <div align="left"> <img src="https://github.com/user-attachments/assets/8c7adc5c-0d98-4f66-ac54-27abb52f912d" width="50" height="50" />
+  </div>
+
+  <div align="left"> <img src="https://github.com/user-attachments/assets/105f704e-f392-41a6-b783-ed3fe4cf6a7b" width="50" height="50" />
+  </div>
 
 ---
   
