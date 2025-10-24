@@ -16,7 +16,7 @@
           align="left"
           alt="Excel"
           title="Excel"
-          width="50 px"
+          width="40 px"
           style="padding-right: 10 px;"
           src="https://github.com/user-attachments/assets/f8d6d897-432b-48e1-ab66-c5c9476388bc" /> 
 </div> 
@@ -44,6 +44,7 @@
   <br>
   <br>
 
+  
   ---
   
 ### 📊 Estatísticas
