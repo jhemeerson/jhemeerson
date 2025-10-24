@@ -9,17 +9,42 @@
 
 ### 🔨 Ferramentas
 
-  <div align="left">
-  <img src="https://github.com/user-attachments/assets/f8d6d897-432b-48e1-ab66-c5c9476388bc" width="50" height="50" />
-  </div>
-  
-  <div align="left"> <img src="https://github.com/user-attachments/assets/8c7adc5c-0d98-4f66-ac54-27abb52f912d" width="50" height="50" />
+<br>
+
+<div>
+      <img 
+          align="left"
+          alt="Excel"
+          title="Excel"
+          width="50 px"
+          style="padding-right: 10 px;"
+          src="https://github.com/user-attachments/assets/f8d6d897-432b-48e1-ab66-c5c9476388bc" /> 
+</div> 
+
+<div> 
+      <img 
+          align="left"
+          alt="Power BI"
+          title="Power BI"
+          width="50 px"
+          style="padding-right: 10 px;"
+          src="https://github.com/user-attachments/assets/8c7adc5c-0d98-4f66-ac54-27abb52f912d" />
+  </div> 
+
+  <div> 
+      <img 
+          align="left"
+          alt="SQL"
+          title="SQL"
+          width="50 px"
+          style="padding-right: 10 px;"
+          src="https://github.com/user-attachments/assets/105f704e-f392-41a6-b783-ed3fe4cf6a7b" />
   </div>
 
-  <div align="left"> <img src="https://github.com/user-attachments/assets/105f704e-f392-41a6-b783-ed3fe4cf6a7b" width="50" height="50" />
-  </div>
+  <br>
+  <br>
 
----
+  ---
   
 ### 📊 Estatísticas
 
