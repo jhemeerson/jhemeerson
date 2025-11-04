@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Jhemerson Oliveira
 
-**`Analista de Dados`**  -  **`Analista de Business Intelligence`**
+**`Analista de Dados`**  -  **`Analista de Business Intelligence`** - **`Data Driven`**
 
 - Em transição para área de dados.
 
