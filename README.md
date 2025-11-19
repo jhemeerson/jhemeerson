@@ -3,7 +3,7 @@
 
 **`Analista de Dados`**  -  **`Business Intelligence`** - **`Data Driven`**
 
-Em transição para a área de Dados, movido por uma forte capacidade analítica e profundo interesse em transformar informações em insights estratégicos. 
+Em transição para área de Dados, movido por uma forte capacidade analítica e profundo interesse em transformar dados em insights estratégicos. 
 Minha trajetória anterior me proporcionou experiências sólidas em resolução de problemas, visão de processos e tomada de decisão orientada a resultados, elementos que agora aplico diretamente no universo da análise de dados.
 
 Tenho me dedicado ao desenvolvimento técnico em ferramentas essenciais como Excel, Power BI, SQL, Python e Estatística, com foco em criar análises claras, dashboards intuitivos e modelos que auxiliem na compreensão e otimização de processos de negócio. 
