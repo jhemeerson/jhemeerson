@@ -48,12 +48,14 @@ Meu objetivo é agregar com **resultados expressivos**, profissionalismo e **vis
           src="https://github.com/user-attachments/assets/105f704e-f392-41a6-b783-ed3fe4cf6a7b" />
   </div>
 
-  <br>
-  <br>
+<br>
+<br>
 
 ---
   
 ### 📊 Estatísticas
+
+<br>
 
 <p>
   <img 
