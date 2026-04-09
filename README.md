@@ -3,7 +3,8 @@
 
 **`Analista de Dados`**  -  **`Business Intelligence`** - **`Data Driven`**
 
-Sou um entusiasta da cultura data-driven, atualmente graduando em Banco de Dados e com foco total na geração de valor por meio da análise estratégica. Através de projetos de portfólio, venho desenvolvendo projetos de Business Intelligence que transformam dados brutos em clareza para a tomada de decisão, como análises de rentabilidade, eficácia promocional e performance.
+Sou um entusiasta da **cultura data-driven**, atualmente **graduando em Banco de Dados** e com **foco total na geração de valor** por meio da análise estratégica. Através de projetos de portfólio, venho desenvolvendo projetos de Business Intelligence que **transformam dados brutos em clareza para a tomada de decisão**, como análises de rentabilidade, eficácia promocional e performance.
+
 Minha atuação combina rigor técnico com visão de negócio, utilizando um ecossistema de ferramentas que inclui SQL, Power BI (DAX/M), Python, Excel Avançado e Looker Studio. Tenho experiência prática na estruturação de indicadores (KPIs), limpeza de dados (ETL) e criação de dashboards minimalistas voltados para apresentações executivas.
 
 * **Análise de Negócio**: Identificação de margens, análise de mix de produtos e comportamento de vendas.
