@@ -3,14 +3,13 @@
 
 **`Analista de Dados`**  -  **`Business Intelligence`** - **`Data Driven`**
 
-Em **transição para área de Dados**, movido por uma forte **capacidade analítica** e profundo **interesse em transformar dados em insights estratégicos**. 
-Minha trajetória anterior me proporcionou **experiências sólidas em resolução de problemas**, visão de processos e tomada de **decisão orientada a resultados**, elementos que agora aplico diretamente no universo da análise de dados.
+Sou um entusiasta da cultura data-driven, atualmente graduando em Banco de Dados e com foco total na geração de valor por meio da análise estratégica. Através de projetos de portfólio, venho desenvolvendo projetos de Business Intelligence que transformam dados brutos em clareza para a tomada de decisão, como análises de rentabilidade, eficácia promocional e performance.
+Minha atuação combina rigor técnico com visão de negócio, utilizando um ecossistema de ferramentas que inclui SQL, Power BI (DAX/M), Python, Excel Avançado e Looker Studio. Tenho experiência prática na estruturação de indicadores (KPIs), limpeza de dados (ETL) e criação de dashboards minimalistas voltados para apresentações executivas.
 
-Tenho me dedicado ao desenvolvimento técnico em ferramentas essenciais como **Excel**, **Power BI**, **SQL**, **Python** e **Estatística**, com foco em criar análises claras, dashboards intuitivos e modelos que auxiliem na compreensão e **otimização dos processos.**
-Busco unir **raciocínio lógico**, **pensamento crítico** e **comunicação objetiva** para entregar **valor real por meio dos dados**.
+* **Análise de Negócio**: Identificação de margens, análise de mix de produtos e comportamento de vendas.
+* **Data Viz**: Relatórios dinâmicos que facilitam a leitura de métricas complexas pela diretoria.
+* **Fundamentação Estatística**: Aplicação de conceitos de correlação e causalidade para previsões mais precisas.
 
-Estou em busca de oportunidades que me permitam evoluir profissionalmente, contribuir com soluções analíticas e integrar equipes orientadas por dados. 
-Meu objetivo é agregar com **resultados expressivos**, profissionalismo e **visão estratégica** em cada projeto, sempre aprendendo, testando e me adaptando às necessidades do negócio.
 
 ---
 
