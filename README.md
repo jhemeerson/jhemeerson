@@ -1,7 +1,7 @@
 
 # 👨🏻‍💻 Jhemerson Oliveira
 
-**`Analista de Dados`**  -  **`Business Intelligence`** - **`Data Driven`**
+**`Analista de Dados`**  -  **`Business Intelligence`**
 
 Sou um entusiasta da **cultura data-driven**, atualmente **graduando em Banco de Dados** e com **foco total na geração de valor** por meio da análise estratégica. Através de projetos de portfólio, venho desenvolvendo projetos de Business Intelligence que **transformam dados brutos em clareza para a tomada de decisão**, como análises de rentabilidade, eficácia promocional e performance.
 
